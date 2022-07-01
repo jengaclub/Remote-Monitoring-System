@@ -1,0 +1,5 @@
+/*style for the white box seen in the UI,
+  streamlit converts python code to implicit html, so the class name is random.*/
+div.block-container.css-12oz5g7.egzxvld2{
+    background-color: rgba(255,255,255,0.4);
+}
