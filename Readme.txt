@@ -23,6 +23,7 @@ Before running the client make sure that all the clients are connected to the sa
 Know the IP address and port of the server and ensure that same is updated in the client side
 
 Server side:
+run in the command prompt using python server.py
 1. In server side just run the executable file server.py
 2. If there is no executable file convert the existing python file to executable file.
 3. Once server is running , it runs indefinitely untill stopped manually .
@@ -31,6 +32,7 @@ Server side:
 6. Please enter a hint while signing up , it is used to reset the password in case you forget it.
 
 Client side
+client has a executable file client.exe that runs automatically
 1. Client is free to use the system and utilise the resources to the fullest.
 2. In case of disk storage exceeding more than 90% , sends an e-mail to the administrator. 
 3. Please clean up the space as instructed by the administrator.
